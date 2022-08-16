@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">365 App Guide Sports Odd</string>
+    <string name="splash_screen">splash_screen</string>
+    <string name="click_to_nextpage">click_to_nextpage</string>
+    <string name="back_button">back_button</string>
+
+    <string name="title1">
+Football Prediction Based on Statistics</string>
+    <string name="title2">
+Football Prediction Based on Statistics</string>
+    <string name="title3">
+Football Prediction Based on Statistics</string>
+    <string name="con1">It is a technique used in sports betting to forecast the outcome of football matches using statistical methods. The purpose of statistical match prediction is to outperform bookmakers predictions on the outcome of football matches.</string>
+
+    <string name="conn1">All prediction algorithms can be classified based on tournament type, time dependency, and regression methodology. Football prediction systems differ between round-robin and knockout competitions. Diego Kuonens article summarizes the methods for Knockout competition.</string>
+
+    <string name="conn2">This system attempts to assign a continually scaled rating value to each team in the event, with the strongest team receiving the highest rating. The method assumes that the rating assigned to rival teams is proportional to the outcome of each match.
+</string>
+
+    <string name="conn3">On the one hand, statistical models necessitate a high number of data in order to estimate their parameters accurately. Working with average statistics makes sense when there are not enough data available during a season (which is usually the case). However, it is well understood that team talents fluctuate throughout the season, making model parameters time-dependent. Mark Dixon (statistician) and Coles attempted to resolve this trade-off by giving more weight to the most recent match results. Rue and Salvesen developed a time-dependent rating mechanism based on the Markov Chain model.</string>
+    <string name="conn4">Arbitrage betting is the most straightforward and consistent betting strategy for producing a guaranteed profit on football. This betting technique focuses on detecting inaccurate odds that do not accurately represent the genuine chance of the outcome and covering the opposite outcome on sharp, right odds.</string>
+    <string name="conn5">Both arbitrage betting and value betting are based on the same fundamental theory and strategy. Our goal as smart bettors is to find markets on football matches where bookmakers are offering inaccurate odds.
+This means that they are offering odds that are higher than the true probability of winning. When you come across such betting possibilities, you should take advantage of them.</string>
+    <string name="conn6">Bookmakers use a database of historical data and every available piece of information to compute chances. The amount of information received by bookies varies.
+Winning football bets based on statistics is only possible if you can demonstrate superior knowledge of the game and players.
+Bookmakers do not have the capacity to respond to every new trend or piece of information for every available match. Following the game live could give you an advantage when betting on football. Acting when the bookmaker is slow.</string>
+    <string name="conn7">You have probably tried following tipster services if you are reading this. Many people assume that simply finding a tipster on a platform with a long and successful prediction history is enough to back up your football betting strategy.
+This is not always the case, as many tipsters may fake their betting history. Players can transform a losing run into a long-term profit by simply changing their stakes or deleting some bets.</string>
+    <string name="conn8">Match betting is the most fundamental football betting strategy. It is based on odds comparison websites and the differences between bookmakers odds.
+Crypto Bookmakers are also offering welcome bonuses, SNR free bets, and better odds to entice potential customers or bettors. Regular bettors are attempting to take advantage of these incentives by placing standard wagers and hoping for a win.</string>
+
+    <string name="vp1">A total bet is a wager on how many combined points two teams will score in a given game. The bettor then wagers on whether the total number of points
+       scored by each team will be greater than or less than the total given by the sports books.
+When betting on a basketball game, the team you bet on must cover the spread, which means they must win or
+       lose by fewer than a certain number of points. The Lakers are favored by 4 1/2 points in this example. To be considered
+       a winner for betting reasons, the Lakers must win by at least 5 points.</string>
+
+    <string name="vp2">Boxing bets require your fighter to win the bout or you will lose your stake.
+    Bets on both boxers are deemed losers if the fight is declared a draw. Congratulations, you just won a huge amount of money if you gambled on the draw.
+Round betting is a basic concept. All you have to do is pick the fights overall winner and then decide which round will give them the victory.
+    For example, you can choose the favorite for the eighth round, and if he wins the fight at that point, you win your wager.</string>
+
+    <string name="vp3">At its most basic, sports betting involves placing money behind an outcome of your choosing and receiving payment if that outcome is attained.
+    A money line bet is one that is put on a games outcome.
+    When you place a spread bet, you are betting on whether a team will win or lose by a certain amount of points.
+When you bet on the money line, you are simply picking the games winner without consideration for the point spread or any other criteria.
+This is the most fundamental sort of football betting in which you select the outcome of a football match.</string>
+
+    <string name="vp4">Billiards is a popular sport among those who enjoy both playing and watching it.
+    It stands to reason that, like any other sport, betting would be made available.
+    There are many types of bets and elements to be aware of when it comes to online billiards betting.
+In-play betting in snooker refers to when odds change and bets are placed accordingly throughout a match.
+    This allows gamblers to watch how the game is progressing and how each participant is performing before placing their bets.</string>
+
+    <string name="vp5">You can place a bet on which cyclist you believe will win the race, and it is as simple as that.
+    Each race will include a list of the riders competing as well as their individual odds to win based on their previous performances and who they are competing against.
+Individual Race betting in MotoGP refers to bettors placing a stake on a specific outcome they predict will occur in a specific race.
+As the premier class of motorcycle racing on road circuits, MotoGP online betting is one of the most thrilling racing marketplaces.</string>
+
+    <string name="vp6">The first thing you should learn about golf odds is how they work. For example, if Tiger Woods is +800 (also written as 8-1) to win a tournament, it indicates that if you bet on Tiger and he wins, you will win 8 times your investment. If you bet $10 and cash, you will win $80.
+A comprehensive golf betting reference that explains outright winner or future betting, head to head wagers, and prop bets that can be placed on golf matches.
+Betting odds describe the likelihood (sometimes known as the implied probability) of a specific outcome occurring.</string>
+
+    <string name="vp7">Bowling is a leisure and target sport in which a player rolls a ball toward pins (in pin bowling) or another target (in target bowling).
+Strike pot betting is comparable to a raffle in that participants can wager on their own game, which means they are actively bowling.
+        When engaging in pot betting, having three or more players in the group and focusing on one set of lanes is the best circumstance.
+Overall winner or frame betting? This wager can be placed by predicting the ultimate accurate score, which relates to the score in frames.
+Winner of the frame. This bet is about predicting who will win the given frame.</string>
+
+    <string name="vp8">You bet on your horse to win AND put a win/place wager. If he wins, you will receive the winnings as well as the place money.
+    If he comes in second, you only get the place money. A place/show bet is a wager that your horse will both place and show.
+Horse racing odds fluctuate in the run-up to the race since they are determined by the amount of money in the pools.
+    A track official will release the morning lines prior to each race day.
+    Those morning lines are a forecast of where the chances for each horse will finish when the race begins, and they have no bearing on potential payouts.</string>
+
+    <string name="vp9">Baseball betting is done on a money line, which means you can lay or take money odds.
+    In contrast to point spread bets, the payment on a winning pick varies with the odds. Baseball odds are given as a three-digit money line.
+    Every money line is based on $100.
+The money line is a set of odds for a baseball game based on the implied likelihood of victory for each side.
+A money line bet in baseball is a gamble on the games outcome on paper.
+Live betting, often known as in-play betting, refers to wagering on baseball games while the game is in progress.</string>
+
+    <string name="vp10">There are three basic ways to gamble on NFL games: the moneyline, total points, and handicap (spread).
+    The moneyline market is a simple wager on the games winner. The points total market bets on whether the game will score more or less than a specified number of points.
+American football moneyline bets are essentially head-to-head wagers on the final outcome (including over time).
+    There are no handicaps or point totals in an NFL moneyline bet. You choose the side you believe will win the game outright.
+    At the sportsbook, this is commonly referred to as a straight-up bet.</string>
+
+    <string name="about1">Betting odds are a means to represent the likelihood/probability of an event occurring. If the probability are low, something is likely to happen. Something with high probability is unlikely to occur.
+Odds are a measure of the possibility of a specific outcome. They are determined as the ratio of events that result in that outcome to those that do not. Odds are commonly utilized in gaming and statistics.
+Odds and probability have a straightforward relationship: the odds of an occurrence are the ratio of the likelihood that the outcome occurs to the probability that it does not occur.</string>
+
+    <string name="about2">Simply expressed, betting odds describe the probability of a result and are usually represented in fractional or decimal form.
+That depiction then informs us how much we might win if that particular scenario occurs.
+We can calculate our possible gains using fractional odds. The figure on the left reflects the possible profit if we stake the figure on the right.
+A £1 wager on Team A to win at 2/1, for example, will earn £3 if successful. The first £2 is profit, and the last £1 is the bettor
+        s stake.</string>
+
+
+    <string name="close_dialog" />
+    <string name="back">BACK</string>
+
+
+</resources>
